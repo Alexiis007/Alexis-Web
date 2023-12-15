@@ -1,0 +1,46 @@
+.contenido {
+  background-color: #171a1d;
+  color: white;
+}
+.Carrusel {
+  width: 80%;
+  margin: 20px auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.imagen-carrusel {
+  border-radius: 20px;
+  width: 100%;
+}
+.Titulo {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin: 10px auto;
+}
+.Titulo h1 {
+  text-align: center;
+  color: white;
+  font-size: 90px;
+}
+.informacion-titulo
+{
+    text-align: center;
+}
+.informacion-texto
+{
+    text-align: center;
+}
+.Gift
+{
+    margin: 10px;
+}
+@media (max-width: 650px) {
+  .Titulo {
+    margin: 10px auto;
+    width: 100%;
+  }
+  .Titulo h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+}

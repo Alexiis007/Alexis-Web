@@ -1,0 +1,28 @@
+.Logo
+{
+    width: 45px;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.navbar-collapse
+{
+    margin: 20px;
+}
+a.nav-link
+{
+    color: white;
+}
+a.nav-link:hover
+{
+    color: yellow;
+}
+.Ruta
+{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+.Ruta:hover
+{
+    color: yellow;
+}
